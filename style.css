@@ -176,3 +176,17 @@
                 display: none;
             }
         }
+        .btnn{
+    width:100px;
+    padding:20px;
+    border:none;
+    border-radius:15px;
+    font-size:15px;
+    font-weight:60;
+    margin-top:12px;
+    cursor:pointer;
+    transition:0.3s;
+    color:white;
+    background-color: blue;
+    margin: 40px;
+}
