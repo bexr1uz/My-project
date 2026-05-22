@@ -182,11 +182,10 @@
     border:none;
     border-radius:15px;
     font-size:15px;
-    font-weight:60;
-    margin-top:12px;
     transition:0.3s;
     color:white;
     background-color: blue;
     align-items: center;
-    margin: 60px;
+    margin-left: 50px;
+    
 }
